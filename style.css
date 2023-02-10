@@ -1,0 +1,106 @@
+img{
+  width:25%;
+  height:25%;
+  border-radius:50%;
+  margin-left: 0px;
+  margin-top: 0px;
+  box-shadow:10px 12px 30px black ;
+}
+
+
+body {
+  background-color:whitesmoke;
+  color: whitesmoke;
+  font-family: font-family: 'Montserrat', sans-serif;
+  margin: 0px;
+  font-size: 17px;
+  line-height:1,6 ;
+  font-weight:300 ;
+
+}
+
+.all{
+  width:720px ;
+  margin:40px auto ;
+  }
+
+  .ima{
+    background: darkgray;
+  padding: 40px;
+  box-shadow: 10px 12px 30px black;
+  border-radius: 20px;
+  margin: 20px 0px;
+  text-align: center;
+
+  }
+
+.box{
+  background: darkgray;
+  padding: 40px;
+  box-shadow: 10px 12px 30px black;
+  border-radius: 20px;
+  margin: 20px 0px;
+  text-align: center;
+}
+
+h1{
+  font-size: 35px;
+  text-align: center;
+  color:black;
+}
+
+p{
+  text-align: center;
+  text-align: justify;
+  color: whitesmoke;
+  font-size: 21px;
+}
+
+h2{
+  font-size: 25px;
+  text-transform: uppercase;
+  text-align:justify;
+  text-align: center;
+  color: black;
+}
+
+li{
+  color: whitesmoke;
+  margin-left: 69px ;
+  padding: 8px;
+  text-align: left;
+}
+
+span{
+  color: RED;
+}
+
+h3{
+  font-size: 23px;
+  text-align: center;
+  color:RED;
+}
+
+.mini{
+  background:whitesmoke;
+  padding: 15px;
+  border-radius: 20px;
+  margin: 20px 0px;
+  text-align: center
+}
+
+.mini p{
+  color: black;
+  font-size: 21px;
+  margin-left: 185px;
+}
+
+
+.box2{
+  background: darkgray;
+  padding: 40px;
+  box-shadow: 10px 12px 30px gray;
+  border-radius: 20px;
+  margin: 20px 0px;
+  text-align: center;
+}
